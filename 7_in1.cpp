@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+em na hoy
 class person{
 	public:
 	int age, height, weight;
